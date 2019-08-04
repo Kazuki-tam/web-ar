@@ -15,6 +15,27 @@
   </script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
   <link rel="stylesheet" href="css/style.css">
+  <script>
+    window.addEventListener('load', function () {
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register("sw.js")
+          .then(function (registration) {
+            return registration.pushManager.getSubscription().then(function (subscription) {
+              if (subscription) {
+                return subscription
+              }
+              return registration.pushManager.subscribe({
+                userVisibleOnly: true
+              })
+            })
+          }).then(function (subscription) {
+            console.log("serviceWorker success")
+          }).catch(function (error) {
+            console.warn("serviceWorker error:", error)
+          })
+      }
+    });
+  </script>
 </head>
 
 <body>
