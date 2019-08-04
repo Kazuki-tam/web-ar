@@ -23,12 +23,17 @@
   .ar-model {
     margin: 0 auto;
   }
+  img {
+    width: 100%;
+  }
   </style>
 </head>
 
 <body>
   <div class="wrapper">
-    <model-viewer class="ar-model" ios-src="iPhoneXs.usdz" src="iphone.gltf" ar></model-viewer>
+    <model-viewer class="ar-model" ios-src="iPhoneXs.usdz" src="iphone.gltf" auto-rotate camera-controls ar>
+      <img src="iphone.png" alt="">
+    </model-viewer>
     <p class="c-text">WebAR Sample</p>
   </div>
 </body>
