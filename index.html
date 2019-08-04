@@ -40,10 +40,27 @@
 
 <body>
   <div class="wrapper">
-    <model-viewer class="ar-model" ios-src="iPhoneXs.usdz" src="iphone.gltf" auto-rotate camera-controls ar magic-leap unstable-webxr>
+    <div id="loading">
+      <img src="iphone.png" alt="loading">
+    </div>
+    <model-viewer id="ar-model" class="ar-model hidden" ios-src="iPhoneXs.usdz" src="iphone.gltf" auto-rotate camera-controls ar
+      magic-leap unstable-webxr>
     </model-viewer>
     <p class="c-text">WebAR Sample</p>
   </div>
+  <script>
+    // loadingのdivを取得
+    var loading = document.getElementById('loading');
+    // ar-modelのdivを取得
+    var model = document.getElementById('ar-model');
+    // 読み込みが完了したら
+    window.addEventListener('load', function () {
+      // loadingのdivを非表示に
+      loading.style.display = 'none';
+      // modelのdivを表示
+      model.classList.remove('hidden');
+    });
+  </script>
 </body>
 
 </html>
