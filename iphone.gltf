@@ -1,0 +1,535 @@
+{
+    "asset": {
+        "copyright": "2019 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - 2e954394d2781569a61651c96c43f45d6e6d08b3",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 38644,
+            "type": "VEC3",
+            "max": [
+                0.04024527966976166,
+                0.14750681817531587,
+                0.0024830398615449669
+            ],
+            "min": [
+                -0.03968485817313194,
+                0.000041089999285759407,
+                -0.0030458499677479269
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 38644,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 38644,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 217752,
+            "type": "SCALAR",
+            "max": [
+                38643.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3",
+            "max": [
+                0.036491509526968,
+                0.13314774632453919,
+                0.0018687499687075616
+            ],
+            "min": [
+                -0.036491509526968,
+                0.01637491025030613,
+                0.0007243099389597774
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 24,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5125,
+            "count": 36,
+            "type": "SCALAR",
+            "max": [
+                23.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 8,
+            "componentType": 5126,
+            "count": 16286,
+            "type": "VEC3",
+            "max": [
+                0.038826100528240207,
+                0.14669904112815858,
+                0.0024730199947953226
+            ],
+            "min": [
+                -0.038733430206775668,
+                0.000737069989554584,
+                -0.0030172099359333517
+            ]
+        },
+        {
+            "bufferView": 9,
+            "componentType": 5126,
+            "count": 16286,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 10,
+            "componentType": 5126,
+            "count": 16286,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 11,
+            "componentType": 5125,
+            "count": 95832,
+            "type": "SCALAR",
+            "max": [
+                16285.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 12,
+            "componentType": 5126,
+            "count": 86257,
+            "type": "VEC3",
+            "max": [
+                0.0398067906498909,
+                0.14755262434482575,
+                0.0021178799215704204
+            ],
+            "min": [
+                -0.03980635851621628,
+                0.0,
+                -0.00276309996843338
+            ]
+        },
+        {
+            "bufferView": 13,
+            "componentType": 5126,
+            "count": 86257,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 14,
+            "componentType": 5126,
+            "count": 86257,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 15,
+            "componentType": 5125,
+            "count": 486936,
+            "type": "SCALAR",
+            "max": [
+                86256.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 463728,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 463728,
+            "byteLength": 463728,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 927456,
+            "byteLength": 309152,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1236608,
+            "byteLength": 871008,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2107616,
+            "byteLength": 288,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2107904,
+            "byteLength": 288,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2108192,
+            "byteLength": 192,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2108384,
+            "byteLength": 144,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2108528,
+            "byteLength": 195432,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2303960,
+            "byteLength": 195432,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2499392,
+            "byteLength": 130288,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2629680,
+            "byteLength": 383328,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 3013008,
+            "byteLength": 1035084,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 4048092,
+            "byteLength": 1035084,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 5083176,
+            "byteLength": 690056,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 5773232,
+            "byteLength": 1947744,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 7720976,
+            "uri": "iphone_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.000010000000656873454,
+                "yfov": 0.6024156808853149,
+                "zfar": 2.0,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "images": [
+        {
+            "name": "image_0",
+            "uri": "iphone_images/image_0.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "phone_16_10_metal_normal",
+            "uri": "iphone_images/phone_16_10_metal_normal.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "phone_16_10_screen_normal",
+            "uri": "iphone_images/phone_16_10_screen_normal.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "image_3",
+            "uri": "iphone_images/image_3.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "phone_16_10_shell_normal",
+            "uri": "iphone_images/phone_16_10_shell_normal.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.4000000059604645,
+                    0.4000000059604645,
+                    0.4000000059604645,
+                    1.0
+                ],
+                "metallicRoughnessTexture": {
+                    "index": 0
+                }
+            },
+            "normalTexture": {
+                "index": 1
+            },
+            "name": "メタルのマテリアル",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.0
+            },
+            "normalTexture": {
+                "index": 2
+            },
+            "emissiveFactor": [
+                0.5,
+                0.5,
+                0.5
+            ],
+            "name": "スクリーンのマテリアル",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.25
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.053199999034404758
+            },
+            "alphaMode": "BLEND",
+            "name": "ガラスのマテリアル"
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.007000000216066837,
+                    0.007000000216066837,
+                    0.007000000216066837,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 3
+                }
+            },
+            "normalTexture": {
+                "index": 4
+            },
+            "name": "シェルのマテリアル",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "MODEL_PHONE_16_10_PART_1_N3D",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "MODEL_PHONE_16_10_PART_2_N3D",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 6,
+                        "NORMAL": 5,
+                        "POSITION": 4
+                    },
+                    "indices": 7,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "MODEL_PHONE_16_10_PART_3_N3D",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 8,
+                        "NORMAL": 9,
+                        "TEXCOORD_0": 10
+                    },
+                    "indices": 11,
+                    "material": 2
+                }
+            ]
+        },
+        {
+            "name": "MODEL_PHONE_16_10_PART_4_N3D",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 12,
+                        "NORMAL": 13,
+                        "TEXCOORD_0": 14
+                    },
+                    "indices": 15,
+                    "material": 3
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                0.448360800743103,
+                0.19999998807907105,
+                0.43403807282447817
+            ],
+            "rotation": [
+                -0.12059047073125839,
+                0.379409521818161,
+                0.04995020851492882,
+                0.9159756302833557
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "children": [
+                2,
+                3,
+                4,
+                5
+            ],
+            "translation": [
+                -0.0002194607222918421,
+                0.0,
+                0.00028140543145127594
+            ],
+            "name": "携帯電話 16:10"
+        },
+        {
+            "mesh": 0,
+            "name": "金属部品"
+        },
+        {
+            "mesh": 1,
+            "name": "スクリーン"
+        },
+        {
+            "mesh": 2,
+            "name": "ガラス"
+        },
+        {
+            "mesh": 3,
+            "name": "ケース"
+        }
+    ],
+    "samplers": [
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "image_0_texture",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "MODEL_PHONE_16_10_MATERIAL_4::normal::sampler",
+            "sampler": 1,
+            "source": 1
+        },
+        {
+            "name": "MODEL_PHONE_16_10_MATERIAL_3::normal::sampler",
+            "sampler": 2,
+            "source": 2
+        },
+        {
+            "name": "image_3_texture",
+            "sampler": 3,
+            "source": 3
+        },
+        {
+            "name": "MODEL_PHONE_16_10_MATERIAL_1::normal::sampler",
+            "sampler": 4,
+            "source": 4
+        }
+    ],
+    "scene": 0
+}
